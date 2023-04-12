@@ -1,0 +1,9 @@
+export const FETCH_USER ='fetch_user';
+export const PUT_USER ='put_user';
+export const UPDATE_USER ='update_user';
+export const CURRENT_USER ='get_current_user';
+export const GENDERED_USERS ='get_gendered_users';
+export const UPDATE_MATCHES ='update_matches';
+export const MATCHED_USERS ='matched_users';
+export const GET_MESSAGES = 'get_messages';
+export const SEND_MESSAGES ='send_messages'
